@@ -1,0 +1,6 @@
+Challenge
+Figure out the correct password to type in when the alert box props up
+
+Solution 
+type view-source:https://hbh.sh/challenges/javascript/2. Search for the phrase password, 
+view the javascript code which processes the passwords and use the password value stated in the alert box
