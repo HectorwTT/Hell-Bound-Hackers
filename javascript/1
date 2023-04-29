@@ -1,0 +1,6 @@
+Challenge
+A login page, enter the correct username and password
+
+Solution
+Right Click the page, view the html source code, search for password look for javascript block of code starting with function 
+and type in the username and password values it uses.
