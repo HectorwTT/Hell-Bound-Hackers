@@ -7,5 +7,4 @@ Challenge - Decrypt the following
 Solution
 USe the following binary decoder as the encrypted text is obviously binary:
 https://cryptii.com/pipes/binary-decoder.
-You will get the following plaintext
-Binary Its Digitalicious
+The resulting plaintext is the solution.
