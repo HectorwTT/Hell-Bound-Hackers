@@ -1,4 +1,4 @@
 Challenge- decrypt the following
 6FBCF7B5CE6637C28EEDC43988A9509B
 
-Solution: Find a md5 decoder, type in the above string and you will get the following : cracked!
+Solution: Find a md5 decoder, type in the above string and the resulting plaintext will be the solution
