@@ -17,3 +17,4 @@ have to figure out the right solution. It has different categories. These catego
 13) Application Patching
 14) Social Engineering
 15) Reverse Engineering
+16) Javascript
