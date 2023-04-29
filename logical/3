@@ -1,0 +1,12 @@
+Challenge
+30 fans hire a bus to attend a Football game. On the way to the field they realize that exactly half of them are fans of one team,
+and the other half are fans of the other team. With still some way to go before reaching the field, the bus develops mechanical problems 
+and the driver announces to his passengers that only way to continue the journey is for half of them to get out and walk. 
+There is a huge fight that doesnt stop until the bus driver suggests a way of selecting people to get off the bus. 
+"All of u" he said" get into a big circle when we are ready beginning at this spot. Ill count to nine people clockwise. 
+The ninth person leaves the circle and continues on foot. And so on until 15 people have left the circle." 
+Suppose u are one of the fans. How can u arrange all the other fans of your team so that none of them will have to walk?
+There are 30 people on the bus not including the driver you are on team A(15 PPL) and the other team is on team B(15 PPL).... now arrange!
+
+Solution
+Draw on a piece of paper numbers 1 to 30 in a circle. Count to 9 clockwise ,scratch off the 9th person and continue until 15 are left.
