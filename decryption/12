@@ -1,0 +1,15 @@
+Challenge
+Decrypt the following message:
+
+Dear Decision maker ; This letter was specially selected to be sent to you . If you no longer wish to receive our publications simply reply with
+a Subject: of "REMOVE" and you will immediately be removed from our mailing list ! This mail is being sent in compliance with Senate bill 1621 ; Title 3 ; 
+Section 302 ! Do NOT confuse us with Internet scam artists ! Why work for somebody else when you can become rich as few as 47 weeks .
+Have you ever noticed people are much more likely to BUY with a credit card than cash plus most everyone has a cellphone . 
+Well, now is your chance to capitalize on this ! We will help you turn your business into an E-BUSINESS & increase customer response by 140% . 
+The best thing about our system is that it is absolutely risk free for you . But don't believe us . 
+Mrs Ames of Maryland tried us and says "I was skeptical but it worked for me" . 
+We assure you that we operate within all applicable laws ! We implore you - act now ! Sign up a friend and you get half off . Thanks .
+
+Solution:
+The above is encoded with a spam encoder. In order to decode, a spam decoder can be found at this site:https://www.spammimic.com/decode32.shtml. 
+Decode the message and enter as the solution!
