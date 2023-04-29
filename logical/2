@@ -1,0 +1,12 @@
+Challenge: 
+Three people are standing on some stairs. They are each wearing a hat. 
+They are only allowed to face forwards, so they cannot see the color of their own hat, 
+only the color of the hat of the one or two people in front of them (depending in which position they are).
+The hats they are wearing have been chosen from a pile of two red hats and two blue hats. 
+All three men will be shot in one minute unless one of them shouts out (correctly!) the colour of their own hat. 
+Who shouts out and how do they know the color of their hat? (Work out the answer for the most difficult situation!
+
+
+Answer : If the hat of the first and second are of the same color, the guy on the third step will be able to guess that his is a different color.
+If they arent , he will be silent. If he is silent, the guy on the second step should be able to deduce the color of his hat as he can see the color of the hat
+in front of him. If the hat of the first guy is blue , he will thus be able to deduce that his is a red hat and if it is red , he will be able to deduce it is blue
