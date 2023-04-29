@@ -1,0 +1,11 @@
+Challenge - Decrypt the following
+0100001001101001011011100110000101110010011110010
+0100000010010010111010001110011001000000100010001
+101001011001110110100101110100011000010110110
+0011010010110001101101001011011110111010101110011
+
+Solution
+USe the following binary decoder as the encrypted text is obviously binary:
+https://cryptii.com/pipes/binary-decoder.
+You will get the following plaintext
+Binary Its Digitalicious
