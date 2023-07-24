@@ -1,0 +1,8 @@
+Challenge 
+Suppose you are working for the science department and the NASA brought you a rock from space and before you are supposed to do anything with it you need to get the volume. 
+But in your office you only have a pencil, a ruler and a glass of water and of course the rock. Using only those things, 
+how can you get a close estimate of the volume of the rock?
+Answer
+Place the glass of water on a flat surface and fill the glass quarter full with water. Measure the height of the meniscus of the water(h1) in the glass using the ruler at eye level.
+Carefully place the rock in the glass so it becomes submerged and ensure no water is splashed. Measure the new height of the water level (h2).Get the diameter of the glass and 
+use the following formula :-pi * (diameter/2)*(diameter/2)* (h2-h1) and you have the volume of the rock!
